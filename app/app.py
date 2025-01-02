@@ -1,7 +1,7 @@
 # Importing essential libraries and modules
 
 from flask import Flask, render_template, request
-from markupsafe import markup
+# from markupsafe import markup
 import numpy as np
 import pandas as pd
 from utils.disease import disease_dic
